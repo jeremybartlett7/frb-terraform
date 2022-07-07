@@ -1,0 +1,6 @@
+**/.git/
+**/.github/
+**/.repo/
+**/.terraform/
+!.terraform/modules/
+*.tfvars
